@@ -5,8 +5,9 @@ nav_order: 2
 
 # 📂 Projects
 
-This section showcases my practical work in **electrical design**, **automation logic**, **HMI development**, and **robotics integration**.  
-Each project is built using simulation tools and industry-grade platforms, reflecting real-world engineering practices.
+This page showcases simulation-ready and design-verified projects across **electrical systems**, **PLC-based automation**, **HMI/SCADA development**, and **robotic integration**.
+
+Each project documents structured logic, HMI visuals, CAD schematics, and emulator-based testing — using real-world industrial platforms.
 
 ---
 
@@ -19,26 +20,44 @@ Each project is built using simulation tools and industry-grade platforms, refle
 | 🚧 Project C | *(Coming Soon)* |
 | 🚧 Project D | *(Coming Soon)* |
 
+> More projects will be added as my learning roadmap progresses.
+
 ---
 
 ## 📄 What Each Project Includes
 
-- 🧠 Structured PLC or robotic logic
-- 🎛️ HMI or electrical panel visuals
-- 📑 PDF documentation (logic, tags, alarms)
-- 🧪 Emulator or simulation testing
-- 🧰 Project files (PDFs, screenshots, code files)
-
-> Projects are simulation-ready and organized for readability, safety, and reusability.
+- 🧠 PLC or robotic logic developed in Studio 5000, TIA Portal, or Automation Builder  
+- 🎛️ HMI interfaces (FactoryTalk, WinCC, Ignition) with alarms and analog indicators  
+- 📑 PDF documentation including tag structures, alarm lists, I/O summaries  
+- 🧪 Emulator-based testing (Logix Emulate, PLCSIM, RoboGuide, etc.)  
+- 🧰 Source files (L5X, ACB, PDF, screenshots, electrical schematics where applicable)
 
 ---
 
-## 🛠 Tools & Platforms
+## 🧩 Platforms Used in Projects
 
-- **Studio 5000**, **Logix Emulate**  
-- **FactoryTalk View ME**, **WinCC**  
-- **FANUC RoboGuide**, **KUKA.Sim**, **ABB RobotStudio**  
-- **AutoCAD Electrical**, **EPLAN**  
-- **GitHub** – Version-controlled documentation and publishing
+### ⚙️ Rockwell Automation  
+Studio 5000, Logix Emulate, RSLogix 500, FactoryTalk View ME
 
-> New projects will be added regularly as part of my roadmap.
+### ⚙️ Siemens TIA Portal Suite  
+TIA Portal for S7-1200/1500 PLCs and HMIs, WinCC, PLCSIM
+
+### ⚙️ ABB Automation Builder & RobotStudio  
+CODESYS-based programming for AC500 PLCs, motion simulation using RobotStudio
+
+### ⚙️ FANUC Robotics  
+FANUC RoboGuide for robotic cell simulation, I/O handshaking, and path teaching
+
+### 🖥️ SCADA & Integration Tools  
+Ignition SCADA, WinCC Advanced, Wonderware InTouch  
+OPC UA, Modbus TCP/IP for data exchange
+
+### 📐 Electrical & Design Tools  
+AutoCAD Electrical, EPLAN, SolidWorks Electrical for panel schematics and layout  
+ETAP for load flow, fault analysis, and protection coordination
+
+---
+
+Each project demonstrates real industrial workflows — combining electrical reliability, control logic, simulation, and documentation.
+
+> View the [About Me](./about) page for my background and tools overview.
