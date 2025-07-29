@@ -5,86 +5,89 @@ nav_order: 4
 
 # 👩‍💻 About Me
 
-I'm **Dhwani Patel**, an Electrical & Automation Engineer based in **Kitchener, Ontario**, with experience designing and supporting industrial control systems across India and Canada.
+I'm **Dhwani Patel**, an Electrical and Automation Engineer based in **Kitchener, Ontario**, with hands-on experience in designing, supporting, and validating industrial control systems. My work spans **electrical panel design**, **PLC-HMI systems**, **robotic integration**, and **power systems** — supported by formal training and simulator-driven project development.
 
-I specialize in **electrical system design**, **PLC/HMI programming**, and **robotics integration**, and I’m passionate about developing safe, efficient, and intelligent automation solutions for modern manufacturing environments.
+With experience across India and Canada, I approach every project with a focus on **safety, compliance, and scalable design** — whether it’s MCC layouts, control logic, or SCADA integration.
 
 ---
 
 ## 🎓 Education & Certifications
 
-- **Automation Technician Certificate**  
-  *George Brown College, Toronto*  
-  Focus: PLC programming, control systems, SCADA, and robotics integration
+- **Automation Technician Certificate**, George Brown College, Toronto  
+  *(PLC, control systems, HMI, SCADA, robotics simulation)*
 
-- **Bachelor of Engineering in Electrical Engineering**  
-  *Sarvajanik College of Engineering & Technology, India*
+- **Bachelor of Engineering – Electrical**, SCET, India
 
 ---
 
-## 🛠️ Technical Strengths
+## 🧩 Platforms & Ecosystems
 
-- **Electrical Design**  
-  AutoCAD Electrical, EPLAN, panel layouts, BOMs, wiring schematics  
-  Experience with motor control centers (MCC), VFDs, relays, contactors
+### ⚙️ Rockwell Automation  
+Studio 5000, RSLogix 500, Logix Emulate, FactoryTalk View ME (PanelView Plus), RSLinx
 
-- **Automation Platforms**  
-  Studio 5000, RSLogix 5000, TIA Portal, FactoryTalk View ME, WinCC, CODESYS  
-  Developing and testing control logic aligned with IEC 61131-3 standards
+### ⚙️ Siemens TIA Portal Suite  
+TIA Portal for PLC/HMI (S7-1200), WinCC (Basic/Advanced), PLCSIM
 
-- **Robotics Integration**  
-  FANUC RoboGuide, KUKA.Sim, ABB RobotStudio  
-  Interfacing robots with PLCs, I/O mapping, offline path simulation
+### ⚙️ ABB Automation Builder Stack  
+ABB Automation Builder (CODESYS), AC500 PLC, ABB RobotStudio for path simulation and TCP configuration
 
-- **Communication & Safety**  
-  Ethernet/IP, PROFINET, OPC UA  
-  Alarm logic, E-stop systems, fault recovery, latching and reset behavior
+### ⚙️ FANUC Robotics  
+FANUC RoboGuide for cell simulation, I/O coordination, pick-and-place sequences
 
-- **Documentation & Testing**  
-  P&ID interpretation, wiring verification, commissioning support, emulator-based validation
+### 🖥️ SCADA & Integration Tools  
+Ignition SCADA, WinCC Advanced, Wonderware InTouch  
+OPC UA, Modbus TCP/IP, tag structures and scripting
 
----
+### 🔌 Electrical & Simulation Tools  
+AutoCAD Electrical, EPLAN, SolidWorks Electrical  
+ETAP for load flow, fault current, protection studies  
+MATLAB, LTSpice, Keil µVision, Logisim
 
-## 🧳 Industry Experience
-
-### **Electrical Engineer – Sainath Engineering Works (India, 2024)**  
-- Designed and documented control systems for conveyor and machinery projects  
-- Programmed PLCs (Siemens & Allen-Bradley) and configured safety interlocks  
-- Reviewed P&IDs, prepared schematics, and supported field testing
-
-### **Electrical Intern – REM Electromech Pvt. Ltd. (India, 2023)**  
-- Developed panel wiring diagrams, single-line drawings, and harness designs  
-- Integrated motor starters, VFDs, and circuit protection devices  
-- Supported project commissioning and BOM preparation
-
-### **Intern – Globe Scott Motors (India, 2022)**  
-- Performed testing on PMDC motors for Indian Railways  
-- Gained exposure to industrial motor controls and point machine assembly
+### 🧪 Programming & Data  
+Python (basic scripting), SQL for logging and queries  
+GitHub for version-controlled documentation and logic tracking
 
 ---
 
-## 🌱 Currently Building
+## 🛠 Engineering Strengths
 
-I am actively developing emulator-based automation projects using:
-- Studio 5000 + FactoryTalk HMI  
-- TIA Portal  
-- RoboGuide, KUKA.Sim  
-- GitHub-based documentation and version control
-
-Each project includes:
-- PLC + HMI code
-- Screenshots and visuals
-- PDF summaries
-- Tag structures and logic explanations
+- Electrical panel design (BOM, schematics, layouts)  
+- MCC and motor starter configurations (DOL, Star-Delta, VFDs)  
+- Control logic development with interlocks, PID tuning, alarm handling  
+- SCADA screen design and tag interfacing  
+- Robotic cell simulation and PLC-to-robot interfacing  
+- Fault diagnostics, emulator-based testing, and field troubleshooting  
+- Compliance with IEC/CSA/NEC/UL 508A standards
 
 ---
 
-## 🤝 Let’s Connect
+## 💼 Industry Experience
 
-I'm currently open to **opportunities** in:
-- Electrical design and control systems  
-- PLC/HMI programming  
-- Automation commissioning or robotics integration
+### Electrical Engineer  
+**Sainath Engineering Works**
+- Designed electrical control panels and wiring diagrams using AutoCAD Electrical  
+- Supported PLC-controlled conveyor systems (Siemens & Allen-Bradley platforms)  
+- Reviewed P&IDs and supported commissioning/testing on site
 
-📧 dhwanisp10@gmail.com  
-🔗 [LinkedIn – dhwanispatel](https://www.linkedin.com/in/dhwanispatel)
+### Intern – Electrical Engineering  
+**REM Electromech Pvt. Ltd.**
+- Drafted single-line diagrams and wiring harnesses  
+- Integrated VFDs, starters, and protective relays in MCCs  
+- Assisted during commissioning and material selection
+
+### Intern  
+**Globe Scott Motors Pvt. Ltd.**
+- Performed diagnostics on PMDC motors and gained exposure to motor assembly/testing  
+- Developed comfort with wiring diagrams and field instrumentation
+
+---
+
+## 📬 Get in Touch
+
+📍 Based in Kitchener, Ontario  
+📧 **Email:** [dhwanisp10@gmail.com](mailto:dhwanisp10@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/dhwanispatel](https://www.linkedin.com/in/dhwanispatel)
+
+---
+
+Let’s connect if you're looking for an engineer who bridges **electrical design**, **industrial automation**, and **robotic integration** — with a passion for building real-world control systems.
