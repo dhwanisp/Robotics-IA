@@ -5,50 +5,66 @@ nav_order: 1
 
 # ⚡ Dhwani Patel | Electrical & Automation Engineer
 
-Welcome to my engineering portfolio — where **electrical system design** meets **industrial automation** and **robotics integration**.
+Welcome to my engineering portfolio — where **electrical design**, **PLC-based control systems**, and **robotic automation** intersect to create scalable, safe, and intelligent industrial solutions.
 
-I’m an Electrical and Automation Engineer with hands-on experience in designing, supporting, and validating systems that power industrial processes. My background spans **control panel drafting**, **power distribution**, **motor control systems**, and growing expertise in **PLC/HMI programming** and **robot-assisted automation**.
-
-This site documents my technical journey through simulation-ready projects, structured learning, and real-world integration practices.
+This site documents my hands-on project work, simulation-based training, and professional learning journey across modern automation platforms.
 
 ---
 
-## 🧠 Core Technical Competencies
+## 🧠 Focus Areas
 
-### Electrical Design & Documentation  
-- Panel layouts, wiring diagrams, BOMs using `AutoCAD Electrical` and `EPLAN`  
-- Systems compliant with **CSA**, **NEC**, and **IEC** standards
+I design and support systems across the following domains:
 
-### Automation System Integration  
-- Practical exposure to PLC-based systems, VFDs, safety devices, and industrial I/O  
-- Experienced in field testing, troubleshooting, and startup support
+- **Industrial Control & Automation**  
+  PLC programming (IEC 61131-3), structured routines, interlocks, PID control
 
-### PLC Programming & Control Logic  
-- Applied knowledge of **IEC 61131-3** languages: Ladder, FBD, and Structured Text  
-- Developed logic for sequencing, interlocks, analog scaling, PID control, and alarms  
-- Uses modular routines, alias tags, and emulator-based testing
+- **HMI & SCADA Systems**  
+  Operator interface design, alarm management, tag-based communication, remote monitoring
 
-### HMI & SCADA Engineering  
-- Designed operator interfaces, status displays, alarms, and control logic interaction  
-- Tools: `FactoryTalk View ME`, `WinCC`, `Ignition`, `Wonderware`
+- **Electrical Engineering & Power Systems**  
+  Control panel drafting, MCC layout, VFD integration, protection and switchgear design
 
-### Robotics Integration  
-- Worked with simulation and programming of robotic cells using  
-  `FANUC RoboGuide`, `KUKA.Sim`, and `ABB RobotStudio`  
-- Configured I/O interfacing and basic motion sequences
+- **Robotics & Motion Simulation**  
+  Offline programming, PLC-robot interfacing, I/O mapping, TCP configuration
 
-### Industrial Networking & Diagnostics  
-- Familiar with **EtherNet/IP**, **PROFINET**, and **OPC UA**  
-- Implements diagnostics, fault logic, and safety resets
+- **Diagnostics, Simulation & Safety**  
+  Emulator-based testing, safety relays, fault response, latching alarms
 
 ---
 
-## 📁 What You’ll Find Here
+## 🧩 Platforms & Ecosystems
 
-- ✅ Real-world automation projects — PLC, HMI, and robotics-ready  
-- 📸 Screenshots of ladder logic, panel designs, HMI interfaces  
-- 📄 PDF reports, I/O lists, and alarm documentation  
-- 🧭 A structured learning roadmap covering automation & robotics
+My projects are built on major automation platforms, including:
+
+- **Rockwell Automation**  
+  Studio 5000, Logix Emulate, RSLogix 500, FactoryTalk View ME (HMI/SCADA)
+
+- **Siemens TIA Portal Suite**  
+  TIA Portal (S7-1200/1500), WinCC, PLCSIM
+
+- **ABB Automation Builder Stack**  
+  Automation Builder (CODESYS-based), AC500 PLC, ABB RobotStudio
+
+- **FANUC Robotics**  
+  RoboGuide for motion simulation and digital twin workflows
+
+- **SCADA & Integration Tools**  
+  Ignition SCADA, WinCC (Advanced), Wonderware InTouch, OPC UA, Modbus TCP/IP
+
+- **Electrical & Simulation Tools**  
+  AutoCAD Electrical, EPLAN, SolidWorks Electrical, ETAP, MATLAB, LTSpice
+
+- **Scripting & Data Tools**  
+  Python (Jython), SQL, GitHub-based documentation workflows
 
 ---
 
+## 📂 Explore the Portfolio
+
+### [📁 Projects](./projects)
+Simulation-ready projects with PLC logic, HMI screens, and downloadable documentation.
+
+
+---
+
+Let’s build smarter systems that connect electrical reliability with automation intelligence.
