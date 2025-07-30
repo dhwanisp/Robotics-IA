@@ -36,7 +36,7 @@ Structured ladder code screenshots for all key routines (JSRs, IO mapping, PID, 
 
 <embed src="LadderLogic_P02.pdf" width="100%" height="600px" type="application/pdf">
 
-[📥 Download Logic PDF](LogicOverview_PumpControlSystem.pdf)
+[📥 Download Logic PDF](LadderLogic_P02.pdf)
 
 ---
 
