@@ -25,16 +25,16 @@ This project simulates a real-world pump-tank automation system using **Rockwell
 ### 1. Summary Report
 Detailed system design, PID logic behavior, alarm structure, hardware setup, and test procedures.
 
-<embed src="ProjectSummary_Pump Control System with PID and Alarm Handling.pdf" width="100%" height="600px" type="application/pdf">
+<embed src="Pump Control System with PID and Alarm Handling.pdf" width="100%" height="600px" type="application/pdf">
 
-[📥 Download Summary PDF](ProjectSummary_Pump Control System with PID and Alarm Handling.pdf)
+[📥 Download Summary PDF](Pump Control System with PID and Alarm Handling.pdf)
 
 ---
 
 ### 2. Ladder Logic Overview
 Structured ladder code screenshots for all key routines (JSRs, IO mapping, PID, alarms).
 
-<embed src="LogicOverview_PumpControlSystem.pdf" width="100%" height="600px" type="application/pdf">
+<embed src="LadderLogic_P02.pdf" width="100%" height="600px" type="application/pdf">
 
 [📥 Download Logic PDF](LogicOverview_PumpControlSystem.pdf)
 
