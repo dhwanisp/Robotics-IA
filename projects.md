@@ -16,7 +16,7 @@ Each project documents structured logic, HMI visuals, CAD schematics, and emulat
 | Project | Description |
 |--------|-------------|
 | 🚧 Project A | *(Coming Soon)* |
-| 🚧 Project B | *(Coming Soon)* |
+| [🚧 Project 2: Pump Control System with PID & Alarm Handling] (projects/project02_PumpControl) | *(Coming Soon)* |
 | 🚧 Project C | *(Coming Soon)* |
 | 🚧 Project D | *(Coming Soon)* |
 
