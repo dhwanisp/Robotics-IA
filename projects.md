@@ -16,7 +16,9 @@ Each project documents structured logic, HMI visuals, CAD schematics, and emulat
 | Project | Description |
 |--------|-------------|
 | 🚧 Project A | *(Coming Soon)* |
-| [🚧 Project 2: Pump Control System with PID & Alarm Handling] (projects/project02_PumpControl) | *(Coming Soon)* |
+
+| [🚧 Project 2: Pump Control System with PID & Alarm Handling](projects/project02_PumpControl) |  A complete control logic system simulating a tank-based flow process. Includes dual-mode control (Manual + PID Auto), alarm latching logic, analog signal scaling (4–20 mA), and modular Studio 5000 routines. Fully emulator-compatible. |
+
 | 🚧 Project C | *(Coming Soon)* |
 | 🚧 Project D | *(Coming Soon)* |
 
