@@ -15,10 +15,11 @@ Each project documents structured logic, HMI visuals, CAD schematics, and emulat
 
 | Project | Description |
 |--------|-------------|
+| [🌬️ Project 1: HVAC Control System with PID, Damper & Alarm Handling](projects/Project01_HVAC/index.md) |  
+*A simulation-ready HVAC control system built in Studio 5000 with Emulator + FactoryTalk View SE HMI. Features Auto/Manual mode handling, PID-based damper regulation, reusable AOI/UDT structures for fan control, full alarm monitoring, and HMI integration. Includes end-to-end testing with E-Stop, deviation alarms, and fan fault simulation.* |
+
 | [🚧 Project 2: Pump Control System with PID & Alarm Handling](projects/Project02_PumpControl/index.md) |  *A complete control logic system simulating a tank-based flow process. Includes dual-mode control (Manual + PID Auto), alarm latching logic, analog signal scaling (4–20 mA), and modular Studio 5000 routines. Fully emulator-compatible.* |
 
-| 🚧 Project C | *(Coming Soon)* |
-| 🚧 Project D | *(Coming Soon)* |
 
 > More projects will be added as my learning roadmap progresses.
 
